@@ -1,10 +1,10 @@
-# 📂 Folder Backup & Synchronization Tool
+## Folder Backup & Synchronization Tool
 
 A professional Python application developed to automate folder backup and synchronization. The tool securely copies files and folders from a source directory to a destination directory while maintaining folder structure, creating logs, and preventing data loss.
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 The Folder Backup & Synchronization Tool is designed to simplify the process of backing up important files. It automatically copies folders from a selected source location to a backup location and maintains synchronization between them.
 
@@ -12,22 +12,22 @@ The project is useful for students, professionals, offices, and anyone who wants
 
 ---
 
-## ✨ Features
+## Features
 
-- 📁 Automatic Folder Backup
-- 🔄 Folder Synchronization
-- 📄 Backup Log Generation
-- 📅 Date & Time Stamping
-- 📂 Automatic Folder Creation
-- ⚠ Error Handling
-- 📋 Console Status Messages
-- 💻 User-Friendly Command Line Interface
-- 🛡 Secure File Copying
-- 📈 Easy to Maintain and Extend
+-  Automatic Folder Backup
+- Folder Synchronization
+-  Backup Log Generation
+-  Date & Time Stamping
+-  Automatic Folder Creation
+-  Error Handling
+-  Console Status Messages
+-  User-Friendly Command Line Interface
+-  Secure File Copying
+-  Easy to Maintain and Extend
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - OS Module
@@ -39,7 +39,7 @@ The project is useful for students, professionals, offices, and anyone who wants
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Folder Backup & Synchronization Tool
@@ -48,12 +48,12 @@ Folder Backup & Synchronization Tool
 ├── Folder Backup.pdf
 ├── README.md
 ├── LICENSE
-└
+
 ```
 
 ---
 
-## ⚙ Hardware Requirements
+## Hardware Requirements
 
 - Processor : Intel Core i3 or above
 - RAM : 4 GB or above
@@ -62,7 +62,7 @@ Folder Backup & Synchronization Tool
 
 ---
 
-## 💻 Software Requirements
+## Software Requirements
 
 - Python 3.10 or later
 - Visual Studio Code
@@ -72,7 +72,7 @@ Folder Backup & Synchronization Tool
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository
 
@@ -90,7 +90,7 @@ python folder_backup.py
 
 ---
 
-## ▶ Usage
+##  Usage
 
 1. Execute the program.
 2. Enter the source folder path.
@@ -101,7 +101,7 @@ python folder_backup.py
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
 ========================================================
@@ -135,13 +135,13 @@ Thank You for Using Folder Backup Tool.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The application was tested using different source folders containing documents, images, PDF files, and nested folders. All files were copied successfully without data corruption. Invalid folder paths were also tested, and appropriate error messages were displayed.
 
 ---
 
-## ✅ Advantages
+## Advantages
 
 - Fast and reliable backup
 - Prevents accidental data loss
@@ -154,7 +154,7 @@ The application was tested using different source folders containing documents, 
 
 ---
 
-## ⚠ Limitations
+## Limitations
 
 - Command-line interface only
 - Manual folder selection
@@ -164,7 +164,7 @@ The application was tested using different source folders containing documents, 
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Graphical User Interface (GUI)
 - Cloud Backup Support
@@ -177,7 +177,7 @@ The application was tested using different source folders containing documents, 
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Riya Lajikumar**
 
@@ -189,12 +189,12 @@ Python Internship Project
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 This project was developed as part of a Python Internship to understand file handling, folder synchronization, backup automation, logging, and software development using Python.
